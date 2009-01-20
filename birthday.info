@@ -1,0 +1,7 @@
+name = Birthday
+description = "Birthday Today block for Content Profile"
+core = 6.x
+package = "Other"
+dependencies[] = content_profile
+dependencies[] = content
+dependencies[] = date
